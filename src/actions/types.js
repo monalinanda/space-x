@@ -1,0 +1,2 @@
+export const FETCH_HISTORY = "FETCH_HISTORY";
+export const FETCH_ADDRESS = "FETCH_ADDRESS";
